@@ -31,7 +31,7 @@ enter credentials that you used to create a superuser.
 Then you should see your number of authors in Authors section like in the 
 image below.
 
-![alt text](docs/authors.png)
+![alt text](./docs/authors.png)
 
 ## Testing
 To run tests simply run the script located in `utils_test_performance/` catalogue.
